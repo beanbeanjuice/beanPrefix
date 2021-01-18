@@ -1,0 +1,30 @@
+player-prefixes:
+  gui-name: '&e&oPlayer Prefixes'
+  prefixes:
+    member: '&8[&eMember&8] &7'
+    elder: '&8[&6&nElder&r&8] &f'
+    squire: '&8[&6&kii&r &a&l&nS&r&a&nquire&r &6&kii&r&8] &f'
+    knight: '&8[&6&kii&r &8&l&nK&r&7&nnight&r &6&kii&r&8] &f'
+    mage: '&8[&d&ki&r&b&ki&r &9&l&oM&r&9&oage &b&ki&r&d&ki&r&8] &f'
+staff-prefixes:
+  gui-name: '&d&oStaff Prefixes'
+  prefixes:
+    builder: '&8[&3Builder&8] &7'
+    helper: '&8[&bHelper&8] &7'
+    mod: '&8[&5Mod&8] &7'
+    modplus: '&8[&5Mod&b+&8] &f'
+    headmod: '&8[&5Head-Mod&8] &f'
+    admin: '&8[&cAdmin&8] &f'
+    headadmin: '&8[&cHead-Admin&8] &f'
+    developer: '&8[&dDeveloper&8] &f'
+    coowner: '&8[&4&lCo-Owner&8] &f'
+    owner: '&8[&4&lOwner&8] &f'
+special-prefixes:
+  gui-name: '&a&o&nSpecial Prefixes'
+  prefixes:
+    scumbag: '&8[&4&lScumbag&8] &f'
+    twitch: '&8[&5Twitch&8] &f'
+    pokemasta: '&8[&d&k|&b&k| &9&l&oP&9&ooke&9&l&oM&9&oasta &b&k|&d&k|&8] &f'
+    coffee: '&8[&d&l&ocoffee&8] &f'
+    cheese: '&8[&b&k|| &6&l&ocheese &b&k||&8] &f'
+    servercrasher: '&8[&9&l&o&nServer Crasher&8] &f'

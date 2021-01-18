@@ -1,0 +1,44 @@
+no-permission: '&cSorry, you do not have permission to execute this command.'
+incorrect-setup: '&cSorry, you have setup an incorrect size. Please use a maximum size of 53.'
+
+must-be-player: '&cSorry, only players may execute this command.'
+incorrect-syntax: '&cIncorrect usage. Please use /beanprefix to bring up the GUI.'
+not-a-player: '&c{player} is not a player.'
+already-in-config: '&a{prefix} already exists! Please either remove or edit it.'
+
+successful-change: '&3Your prefix has been successfully changed to &d"{prefix-converted}&d"&3.'
+successful-change-other: '&a{player} had their prefix successfully changed to {prefix-converted}'
+added-to-config: '&d{prefix} &ahas been added to the config.'
+successful-reload: '&aThe config has been reloaded.'
+
+# Lores and Etc
+left-click: '&dLeft click to change your prefix!'
+right-click: '&dRight click to edit this prefix!'
+
+edit: '&dEdit Prefix!'
+edit-lore: '&cClick to edit prefix!'
+edit-ask: '&3Please enter the new prefix... Type "&ccancel&3" to exit out of editing!'
+edit-success: '&d"{old-prefix}&d" &3has been changed to &d"{new-prefix}&d"&3.'
+
+remove: '&dRemove Prefix!'
+remove-lore: '&cClick to remove prefix!'
+remove-success: '&3Successfully removed the prefix: &d"{prefix}&d"&3!'
+
+cancel: '&dCancel!'
+cancel-lore: '&cClick to exit out of the GUI!'
+cancel-create: '&3Successfully exited out of prefix creation!'
+cancel-edit: '&3Successfully exited out of prefix editing!'
+
+add: '&dAdd a prefix!'
+add-lore: '&cClick to add a prefix!'
+add-no-permission: '&cSorry, you do not have permission to create a prefix in this section!'
+add-prefix-path: '&3Please enter the prefix name. This is NOT the prefix. Type "&ccancel&3" to exit out of creating!'
+add-found: '&cSorry, &a{prefix-name} &calready exists, please try again.'
+add-prefix: '&3Now please enter the prefix and color codes!'
+add-success: '&3Successfully added the prefix: &d"{prefix}&d"&3!'
+
+next: '&dNext page!'
+next-lore: '&cClick to go to the next page!'
+
+previous: '&dPrevious page!'
+previous-lore: '&cClick to go to the previous page!'

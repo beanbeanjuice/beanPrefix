@@ -1,0 +1,10 @@
+prefix: '&8[&bbeanPrefix&8]'
+
+# Permissions
+# beanprefix.gui -- Permission to open the GUI
+# beanprefix.gui.[prefix-group] -- Permission to view own's player prefixes. Ex -> beanprefix.gui.staff-prefixes
+# beanprefix.create -- Permission to add prefixes to that group.
+# beanprefix.[prefix] -- Permission to change prefix. Ex -> beanprefix.developer
+# beanprefix.[prefix].edit -- Permission to edit the prefixes they can see.
+# beanprefix.* -- Access to everything
+# beanprefix.reload -- Access to reload the config files.

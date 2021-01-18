@@ -1,0 +1,12 @@
+name: BeanPrefix
+version: ${project.version}
+main: beanbeanjuice.beanprefix.BeanPrefix
+api-version: 1.15
+depend: [Vault]
+authors: [beanbeanjuice]
+description: Prefix Changer GUI
+
+commands:
+  beanprefix:
+    aliases: [bp, changeprefix, cp]
+    description: Bring up the prefix changer GUI.
